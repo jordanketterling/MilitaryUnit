@@ -1,0 +1,2 @@
+# MilitaryUnit
+A practice of Inheritance. This was a simple project to simply understand the core fundamentals of inheritance which is in the example of military units.  This is applicable due to the heirarchy of traits that is distributed across the mjaority of the military. This is meant to be a quick and easy view of how inheritance would work, not necesarilly a fully blown out example of inheritance playing into an entire application.
